@@ -1,0 +1,46 @@
+.cuerpo{
+    background-color: bisque;
+}
+.imagen1{
+    width: 33%;
+    height: 200px;
+    float: left;
+    background-color: bisque;
+}
+.imagen2{
+    width: 33%;
+    height: 200px;
+    float: right;
+    float: left;
+    background-color: bisque;
+}
+.imagen3{
+    width: 34%;
+    height: 200px;
+    float: left;
+    background-color: bisque;
+}
+.temas{
+    background-color: bisque;
+    width: 100%;
+    height: 500px;
+}
+.verano{
+    background-color: bisque;
+    width: 33%;
+    height: 920px;
+    float: left;
+}
+.yhlqmdlg{
+    background-color: bisque;
+    width: 33%;
+    height: 920px;
+    float: right;
+    float: left;
+}
+.x100pre{
+    width: 34%;
+    height: 920px;
+    float: left;
+    background-color: bisque;
+}
